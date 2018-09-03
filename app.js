@@ -6,7 +6,7 @@ const app = require("express")()
 // fake posts to simulate a database
 const posts = [
   {
-    id: 1;
+    id: 1,
     author: "John",
     title: "Templating with EJS",
     body: "Blog post number 1 content"
